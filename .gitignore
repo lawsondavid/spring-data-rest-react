@@ -5,6 +5,7 @@
 
 .idea/
 .mvn/
+target/
 
 # Package Files #
 *.jar
